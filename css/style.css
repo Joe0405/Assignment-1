@@ -12,15 +12,22 @@ header {
 	top: 0;
 	right: 0;
 	width: 100%;
+	height: 100px;
 }
-
+.main_heading {
+	text-transform: uppercase;
+	position: relative;
+	top: 15px;
+}
 nav {
 	float: right;
+	position: relative;
+	top: -28px;
 }
 
 nav li {
 	display: inline;
-    margin: 15px;
+    margin: 0 15px;
 }
  a {
  	color: black;
@@ -31,15 +38,15 @@ nav li {
 	font-size: 18px;
 }
 
-.wrap, .bar {
-	margin-top: 50px;
+.wrap {
+	margin-top: 130px;
 }
 .main img {
 	width: 300px;
 	height: 180px;
 }
 
-.wrap div p {
+.wrap article p {
 	color: black;
 	text-align: justify;
 	float: left;
