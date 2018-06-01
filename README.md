@@ -1,0 +1,1 @@
+This site contains information about the Portugese professional footbller Cristiano Ronaldo. It has information about his playing career, and also the trophies, awards and accolades he has won until now. 

@@ -1,0 +1,94 @@
+body {
+	background: #e6e6e6;
+	font-family: 'cookie' , cursive;
+	font-size: 25px;
+}
+
+header {
+	font-family: sans-serif;
+	background: #cccccc;
+	font-size: 15px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 100%;
+}
+
+nav {
+	float: right;
+}
+
+nav li {
+	display: inline;
+    margin: 15px;
+}
+ a {
+ 	color: black;
+	text-decoration: none;
+}
+
+.bar li a:hover {
+	font-size: 18px;
+}
+
+.wrap, .bar {
+	margin-top: 50px;
+}
+.main img {
+	width: 300px;
+	height: 180px;
+}
+
+.wrap div p {
+	color: black;
+	text-align: justify;
+	float: left;
+}
+
+#hero {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+	height: 580px;
+}
+
+h3 {
+	text-align: center;
+}
+
+footer {
+	background: #cccccc;
+
+}
+
+footer ul {
+	height: 50px;
+	text-align: center;
+}
+
+footer ul li a {
+	position: absolute;
+	padding-top: 15px;
+}
+
+footer ul li {
+	list-style: none;
+    display: inline;
+    padding-right: 60px;
+    margin: 30px;
+}
+
+ .fimg {
+ 	align-items: center;
+ 	width: 20px;
+ 	height: 20px;
+ }
+
+ footer p {
+ 	text-align: center;
+ 	font-size: 10px;
+ 	font-family: sans-serif;
+ 	color: #595959;
+ }
